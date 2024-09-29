@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Cloud Computing: A Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/posts/getting-started-with-cloud-computing/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/getting-started-with-cloud-computing/</guid>
+      <description>Cloud computing has revolutionized the way we store and access data.</description>
+    </item>
+    <item>
+      <title>The Future of Software Development: Trends to Watch in 2024</title>
+      <link>http://localhost:1313/posts/future-of-software-development/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/future-of-software-development/</guid>
+      <description>Data science is transforming how businesses make decisions. Discover its impact and importance.</description>
+    </item>
+    <item>
+      <title>The Rise of Artificial Intelligence in Everyday Life</title>
+      <link>http://localhost:1313/posts/the-rise-of-artificial-intelligence/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-rise-of-artificial-intelligence/</guid>
+      <description>Artificial intelligence is reshaping industries. Explore current trends and future possibilities.</description>
+    </item>
+    <item>
+      <title>Understanding Cybersecurity: Best Practices for Individuals and Organizations</title>
+      <link>http://localhost:1313/posts/cybersecurity-best-practices/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cybersecurity-best-practices/</guid>
+      <description>Cybersecurity is critical in today&amp;rsquo;s digital landscape. Learn essential practices to protect your information.</description>
+    </item>
+  </channel>
+</rss>

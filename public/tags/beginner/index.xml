@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginner on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/beginner/</link>
+    <description>Recent content in Beginner on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Cloud Computing: A Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/posts/getting-started-with-cloud-computing/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/getting-started-with-cloud-computing/</guid>
+      <description>&lt;p&gt;Cloud computing has revolutionized the way we store and access data. This guide provides an overview of the key concepts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-cloud-computing&#34;&gt;What is Cloud Computing?&lt;/h2&gt;&#xA;&lt;p&gt;Cloud computing allows users to access and store data over the internet instead of on local servers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;service-models&#34;&gt;Service Models&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IaaS (Infrastructure as a Service)&lt;/strong&gt;: Provides virtualized computing resources over the internet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;PaaS (Platform as a Service)&lt;/strong&gt;: Offers hardware and software tools over the internet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SaaS (Software as a Service)&lt;/strong&gt;: Delivers software applications via the internet.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits-of-cloud-computing&#34;&gt;Benefits of Cloud Computing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Easily scale resources as needed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost-Efficiency&lt;/strong&gt;: Pay only for what you use.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Accessibility&lt;/strong&gt;: Access your data from anywhere with an internet connection.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Cloud computing is a powerful tool that can enhance productivity and flexibility in both personal and professional settings.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
