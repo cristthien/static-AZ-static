@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Best Practices on My New Hugo Site</title>
+    <title>Best Practices on Rainaldi.dev</title>
     <link>http://localhost:1313/tags/best-practices/</link>
-    <description>Recent content in Best Practices on My New Hugo Site</description>
+    <description>Recent content in Best Practices on Rainaldi.dev</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/cybersecurity-best-practices/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cybersecurity-best-practices/</guid>
-      <description>&lt;p&gt;In today’s digital age, cybersecurity is more important than ever. Here are some best practices for individuals and organizations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;common-cybersecurity-threats&#34;&gt;Common Cybersecurity Threats&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phishing&lt;/strong&gt;: Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Malware&lt;/strong&gt;: Software designed to disrupt or gain unauthorized access to systems.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ransomware&lt;/strong&gt;: A type of malware that encrypts data and demands payment for decryption.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;best-practices&#34;&gt;Best Practices&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Use Strong Passwords&lt;/strong&gt;: Create complex passwords and change them regularly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enable Two-Factor Authentication&lt;/strong&gt;: Add an extra layer of security.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Regularly Update Software&lt;/strong&gt;: Keep systems and applications up-to-date to protect against vulnerabilities.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;By adopting these practices, individuals and organizations can significantly reduce their risk of cyber threats.&lt;/p&gt;</description>
+      <description>Cybersecurity is critical in today&amp;rsquo;s digital landscape. Learn essential practices to protect your information.</description>
     </item>
   </channel>
 </rss>

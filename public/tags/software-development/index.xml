@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Development on My New Hugo Site</title>
+    <title>Software Development on Rainaldi.dev</title>
     <link>http://localhost:1313/tags/software-development/</link>
-    <description>Recent content in Software Development on My New Hugo Site</description>
+    <description>Recent content in Software Development on Rainaldi.dev</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/future-of-software-development/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/future-of-software-development/</guid>
-      <description>&lt;p&gt;As technology evolves, so does software development. Here are some trends to watch in 2024.&lt;/p&gt;&#xA;&lt;h2 id=&#34;low-code-and-no-code-platforms&#34;&gt;Low-Code and No-Code Platforms&lt;/h2&gt;&#xA;&lt;p&gt;These platforms enable users to create applications with minimal coding, making development accessible to a broader audience.&lt;/p&gt;&#xA;&lt;h2 id=&#34;devops-adoption&#34;&gt;DevOps Adoption&lt;/h2&gt;&#xA;&lt;p&gt;The integration of development and operations teams is crucial for improving collaboration and efficiency in the software lifecycle.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ai-in-software-development&#34;&gt;AI in Software Development&lt;/h2&gt;&#xA;&lt;p&gt;Artificial intelligence is increasingly being used for code generation, testing, and debugging, making the development process faster and more efficient.&lt;/p&gt;</description>
+      <description>Data science is transforming how businesses make decisions. Discover its impact and importance.</description>
     </item>
   </channel>
 </rss>
